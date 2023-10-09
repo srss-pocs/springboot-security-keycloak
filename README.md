@@ -1,6 +1,14 @@
 # springboot-security-keycloak
 Spring Boot 3.1.4
 
+Reference ::
+
+https://www.keycloak.org/downloads
+
+https://www.keycloak.org/getting-started/getting-started-zip
+
+https://www.keycloak.org/docs/latest/securing_apps/#_spring_boot_adapter
+
 
 KeyCloak Download  : https://www.keycloak.org/downloads
 
@@ -83,6 +91,30 @@ Assign A Role
 ![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/75656597-5246-487a-809d-ae4004f68d72)
 
 ![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/ede1855d-8bc8-4ebf-b328-6dd878be3267)
+
+I Changed Spring Boot Port to 9090 (Check Client Root URL and change)
+Go to http://localhost:8080/realms/springbootrealm/.well-known/openid-configuration
+
+Copy the end point : "token_endpoint": "http://localhost:8080/realms/springbootrealm/protocol/openid-connect/token"
+
+Open POSTMAN
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/a0ae057b-9600-4ea3-b7c7-8dcc1c52c7b6)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/9225280b-b394-4687-8006-1e2d283fb242)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/49bb4790-b6e6-4dc6-aa92-426448d0ce14)
+
+Send
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/4d642df9-fbc2-439a-8a12-fd71330b603a)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/19162e31-858f-4c8c-89a6-fc72d4afef16)
+
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/7875be3f-a0d9-4f7a-8ea9-50343eec1805)
+
+
+
 
 
 
