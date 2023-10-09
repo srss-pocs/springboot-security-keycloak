@@ -110,7 +110,7 @@ Send
 
 ![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/19162e31-858f-4c8c-89a6-fc72d4afef16)
 
-
+Open https://jwt.io/
 ![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/7875be3f-a0d9-4f7a-8ea9-50343eec1805)
 
 
