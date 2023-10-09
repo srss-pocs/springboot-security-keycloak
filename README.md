@@ -48,6 +48,54 @@ Next
 ![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/5b16947e-f29d-4633-9dc8-4a6aba32282f)
 
 
+Root URL is the Spring boot service end point
+Save
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/38e704f4-098e-4ded-9ec1-9b73659b5da1)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/f1a329a6-8ed4-42d7-b650-dc6de3cc6a88)
+
+Click on Realm Roles -> Create role 
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/1e1e335b-27aa-4d40-a609-afd8685149ce)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/a49d8c97-9690-41d6-a658-ee76b0cb43a5)
+
+Roles admin, user and Save
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/5e8032f0-f175-49a2-a718-28c610e52ce7)
+
+Click Users -> Add User -> Credentials (Password) -> Assign above roles
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/001560f1-4a06-4d77-93e8-c6f3b05fc98b)
+
+Create Admin and DevUser (2 Users)
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/27010b5c-1663-424b-984b-13438d70803c)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/f80418ef-3701-4ced-b8a3-faa4006f0a99)
+
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/0d8b6961-6abe-4e3a-96d9-923743fa170c)
+
+Assign A Role
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/eef37c95-0ec7-4488-8791-b849d76573ca)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/75656597-5246-487a-809d-ae4004f68d72)
+
+![image](https://github.com/srss-pocs/springboot-security-keycloak/assets/145287517/ede1855d-8bc8-4ebf-b328-6dd878be3267)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
